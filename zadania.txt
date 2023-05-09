@@ -23,6 +23,7 @@ wymienionych chorób. Metoda powinna zwrócić n-elementową listę referencji n
 powodującym największą liczbę zgonów w grupie wiekowej do której przynależy podany wiek. Lista powinna być posortowana malejąco.
 Kody ICD-10 zawsze rozpoczynają się od pojedynczej litery oraz dwóch cyfr. Podczas sprawdzania poprawności kodu należy ograniczyć
 się do tego warunku.
+
 Dany jest plik tekstowy zawierający opis kodów listy chorób. Właściwe dane znajdują się w nim od linii 88. Większość linii ma
 postać:
 KOD OPIS
